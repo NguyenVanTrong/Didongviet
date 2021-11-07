@@ -1,7 +1,7 @@
-                                                                              Ngày:07/11/2021                                                                             
-                                                                              Reporter:Ngô Đức Văn                                                                          
-                                                                              Tên lỗi:Business Logic                                                                           
-                                                                              Website: https://mia.vn/                                                                                                                       
+                                                                     Ngày:07/11/2021                                                                             
+                                                                     Reporter:Ngô Đức Văn                                                                          
+                                                                     Tên lỗi:Business Logic                                                                           
+                                                                     Website: https://mia.vn/                                                                                                                       
 
 
 Đầu tiên thử ấn vào mua một món hàng xem như thế nào,thấy ở mục số lượng không cho điều chỉnh xuống được nữa                                                                                                                       
