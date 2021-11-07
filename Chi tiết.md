@@ -19,6 +19,7 @@ Ta thấy được bây giờ số tiền ở mục thanh toán đang là số �
 
 Thấy được hiện tại đang có 5 vali ở mục một đang là số âm nên không cần tính và tổng số tiền của 8 món hàng còn lại là 9.000 vnđ
 
-![253985437_1166454637218935_8941824379782573894_n](https://user-images.githubusercontent.com/88313289/140636788-50dc9d04-b28f-44da-bc7d-e8114ddfc4f1.png)
 
-![254294361_578850273383145_4289527205774232994_n](https://user-images.githubusercontent.com/88313289/140636789-9c7addcd-8065-4b05-96a8-5a69813ee9d7.png)
+https://user-images.githubusercontent.com/88313289/140636975-be8da582-29f6-4d61-bcb8-2effb23f50d3.mp4
+
+
