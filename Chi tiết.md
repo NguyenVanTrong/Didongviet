@@ -1,22 +1,20 @@
                                                             Ngày 14/11/2021
                                                             Reporter:Ngô Đức Văn
-                                                            Tên Lỗi:Broken Link Hijacking
-                                                            Website:balohanghieu.com
+                                                            Tên Lỗi:Git Repository Found
+                                                            Website:https://lecttr.com/
+                                                    
+Mô tả:Chào bạn.Vừa nãy thì mình có thấy vài quảng cáo ở website của bạn nên mình thử ấn vào xem thế nào thì thấy nó chuyển hướng đến https://lecttr.com/ nên mình có nghịch thử vài mục ở website thì phát hiện ra lỗi nguy hiểm mà lập trình viên bên bạn mắc phải và chưa fix .Lỗi này thì cũng cơ bản nhưng tác hại thì lại rất to lớn.Lập trình viên đã quên giâú các file nhạy cảm dẫn đến ai cũng có thể xem và tải xuống.Các file nhạy cảm bị lộ và chúng có thể hữu ích cho kẻ tấn công khi kết hợp với các lỗ hổng khác được phát hiện trong ứng dụng.
 
-
-B1:Thử ấn vào link facebook ở dưới cùng website->Không hiện ra gì cả
-
-![256731681_642611610066782_3872360924784679146_n](https://user-images.githubusercontent.com/88313289/141676495-4544a3e4-36a9-4c17-a429-da03dc4530b0.png)
-
-![256766789_441937574172651_6724704338431628385_n](https://user-images.githubusercontent.com/88313289/141676497-f6ff2502-b426-4f61-a816-4ddb39d9e834.png)
-
-
-B2:Thấy được link đó dẫn đến một trang có url là balohanghieucom->Thử tạo một trang Facebook mới và đặt url giống hệt như vậy 
-
-![257591977_3067297326874433_6067691339952207890_n](https://user-images.githubusercontent.com/88313289/141676503-4fec0c4f-928c-4855-98c5-6aeeda346b30.png)
-
-
-B3:Ấn lại vào link dẫn đến facebook.com/balohanghieucom và website đã dính lỗi Broken Link Hijacking
-
-![256855387_1143941746419039_902041276366157717_n](https://user-images.githubusercontent.com/88313289/141676524-8bf7d60f-d784-4081-a99a-162ff4ed4fe0.png)
-
+File nhạy cảm bị lộ:
+/.git/index
+/.git/config
+/.git/description
+/.git/HEAD
+/.git/info/exclude
+/.gitignore
+/.git/refs/heads/master
+/.git/logs/refs/remotes/origin/master
+/.git/refs/remotes/origin/HEAD
+/.git/packed-refs
+/.git/FETCH_HEAD
+Cảm ơn bạn đã đọc báo cáo của mình.Hi vọng nhận được phản hồi sớm từ bạn
